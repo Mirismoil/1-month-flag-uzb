@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.uzb{    width: 500px;
+    height: 300px;
+    margin: 170px 410px;
+    border: 2px solid;
+background-image: linear-gradient(blue 30%, red 30% 35%, white 35% 65%, red 65% 70%, green 70%);
+}
+   
